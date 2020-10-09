@@ -41,3 +41,5 @@ let totalPerPerson = billWithTip / totalPartySize;
 console.log(`The total tip is $${totalAmountToTip.toFixed(2)}.`);
 console.log(`The total amount with tip is $${billWithTip.toFixed(2)}.`);
 console.log(`The final total per person is $${totalPerPerson.toFixed(2)}.`);
+
+//Done!
